@@ -1,8 +1,7 @@
 import java.util.*;
 class Case
 {
-    public static void main(String ar[])
-     {
+    public static void main(String ar[]){
         Scanner in=new Scanner(System.in);
         String sen=in.nextLine().toLowerCase();
         int len=0,i=0;
@@ -13,7 +12,6 @@ class Case
         while(i<str.length)
         { 
           int j=0;
-            // str[i]=str[i].replace(str[i].charAt(0),Character.toUpperCase(str[i].charAt(0)));
             char ch[]=str[i].toCharArray();
             int chlen=ch.length;
             while(j<chlen)

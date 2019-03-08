@@ -33,7 +33,7 @@ class prime_factor{
         }
         for(int i=0;i<prime.size();i++)
         {
-            System.out.printf("%s ",prime.get(i));
+            System.out.printf("%s",prime.get(i));
         }
     }
 }

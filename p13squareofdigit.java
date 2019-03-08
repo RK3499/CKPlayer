@@ -1,8 +1,6 @@
 import java.util.*;
-class squareofdigit
-{
-    public static void main(String ar[]) 
-    {
+class squareofdigit{
+    public static void main(String ar[]){
         Scanner input=new Scanner(System.in);
         int num=input.nextInt();
         int n,square=0;

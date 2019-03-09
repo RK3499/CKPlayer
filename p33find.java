@@ -1,5 +1,6 @@
 import java.util.*;
-class find{
+class find
+{
     public static void main(String arg[]){
         Scanner input=new Scanner(System.in);
           int n=input.nextInt();

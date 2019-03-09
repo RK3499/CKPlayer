@@ -23,8 +23,6 @@ class bracket{
             else
             {
                 System.out.print("no");
-            }
-        
+            }        
     }
 }
-© 2019 GitHub, Inc.

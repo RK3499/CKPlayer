@@ -5,8 +5,7 @@ class find{
           String str=input.next();
           int n=str.length(); 
             for(int i=0;i<n;i++)
-            {
-            
+            {            
                 System.out.print(str.charAt(i)); 
                 i=i+2;
             }            
